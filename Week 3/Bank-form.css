@@ -1,0 +1,59 @@
+body {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+label {
+  font-size: 16px;
+  font-weight: 300;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+input {
+  width: 250px;
+  height: 20px;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 3px;
+}
+input[type="radio"] {
+  margin-right: -75px;
+  vertical-align: middle;
+}
+input [type="checkbox"] {
+  margin-right: -75px;
+  vertical-align: middle;
+}
+select {
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+  border-width: 1px;
+  padding: 3px;
+}
+textarea {
+  height: 200px;
+  width: 250px;
+  padding: 3px;
+  border-radius: 5px;
+  border-width: 1px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+input [type="date"] {
+  height: 30px;
+  width: 250px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+button {
+  background-color: blue;
+  color: white;
+  border-color: darkblue;
+  border-width: 1px;
+  border-radius: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 3px;
+  height: 30;
+  width: 100px;
+}
