@@ -1,0 +1,132 @@
+/*features section start */
+.features {
+  height: 15rem;
+}
+
+.features .expert {
+  width: 29%;
+  text-align: center;
+  padding: 1.5rem 0.5rem;
+  margin-right: 0.5rem;
+  float: left;
+}
+
+.features .expert img {
+  width: 3rem;
+}
+
+.features .expert h1 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.5;
+  text-transform: capitalize;
+}
+
+.features .expert p {
+  font-size: 1rem;
+  margin-top: 0;
+}
+/* features section starts*/
+
+/* About section starts*/
+.about {
+  display: flex;
+}
+.about .stat {
+  padding: 1rem;
+  width: 60%;
+}
+
+.about .stat .book {
+  display: flex;
+  align-items: center;
+}
+
+.about .stat .book button {
+  background-color: black;
+  color: white;
+  margin-left: 0.5rem;
+  width: 4rem;
+  height: 2.5rem;
+  border: 0;
+}
+
+.about .stat .book h3 {
+  font-size: 1.2rem;
+}
+
+.about .image {
+  width: 50%;
+}
+
+.about .image img {
+  width: 100%;
+  padding: 1rem;
+}
+/*about section ends*/
+
+/*Gallery section begins */
+.gallery {
+  height: 30rem;
+}
+
+.gallery .images {
+  /*display: flex;*/
+}
+
+.gallery .images .first {
+  width: 30%;
+  float: left;
+  margin-right: 1rem;
+}
+
+.gallery .images .first img {
+  width: 100%;
+}
+
+.gallery .images .second {
+  width: 35%;
+  float: left;
+  margin-right: 1rem;
+}
+
+.gallery .images .second img {
+  width: 100%;
+  height: 9rem;
+  margin-bottom: 0.5rem;
+}
+
+.gallery .images .third {
+  width: 20%;
+  float: left;
+}
+.gallery .images .third img {
+  width: 100%;
+}
+/*Gallery section ends*/
+
+/*footer section begins*/
+.footer {
+  background-color: antiquewhite;
+}
+.footer .col-1 {
+  width: 25%;
+  float: left;
+  margin-right: 1rem;
+}
+
+.footer .col-2 {
+  width: 25%;
+  float: left;
+  margin-right: 1rem;
+}
+
+.footer .col-3 {
+  width: 25%;
+  float: left;
+  margin-right: 1rem;
+}
+
+.footer .col-4 {
+  padding-top: 0.5rem;
+}
